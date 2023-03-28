@@ -29,8 +29,6 @@ Here's a walkthrough of implemented user stories:
 
 ![BeRealClone](https://user-images.githubusercontent.com/116195324/228366486-a1cfd5c3-65c0-4328-813c-4e73c2ac78fb.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Giphy Capture  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
